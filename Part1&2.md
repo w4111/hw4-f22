@@ -103,6 +103,7 @@ How many disk accesses are required if there is a secondary B+ tree index on `em
 
 Assume schedule S as
 **S: R3(e) W4(a) R1(b) R1(c) W3(e) R4(e) W1(c) W2(b) C2 W3(c) C3 W4(c) C4 W1(d) C1**
+
 where Ri(a)/Wi(a) indicates transaction Ti reads/writes data item a, and Ci indicates Ti commits.
 
 
