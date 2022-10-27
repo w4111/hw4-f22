@@ -17,9 +17,11 @@ Please find corresponding instructions in the repo.
 
 ## [Part 1 & 2](./Part1&2.md)
 
+- You can directly view these parts on Gradescope. 
+- We use autograders for part1. Please follow the format instructions carefully since we do not grant any partial credits for misformatting.
 
 ## Part 3 in Jupyter
 
 * [Click here to open the HW4 notebook in google colab](https://colab.research.google.com/github/w4111/hw4-f22/blob/main/hw4_part3.ipynb)
-
+- Submit your answers on Gradescope.
 
