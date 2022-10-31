@@ -3,6 +3,7 @@
 
 * Assigned: 11/1 Tue
 * Due: 11/29 Tue 11:59 PM
+* Late Days DDL: 12/02 Fri 11:59 PM
 * Value: 3.75% of your grade
 * Done and submitted individually (as with all the homeworks) **via [Gradescope](https://www.gradescope.com)**. 
 
