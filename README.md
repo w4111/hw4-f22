@@ -23,6 +23,6 @@ Please find corresponding instructions in the repo.
 
 ## Part 3 in Jupyter
 
-* [Click here to open the HW4 notebook in google colab](https://colab.research.google.com/github/w4111/hw4-f22/blob/main/hw4_part3.ipynb)
+* [Click here to open the HW4 notebook in google colab](https://colab.research.google.com/github/w4111/hw4-f22/blob/master/hw4_part3.ipynb)
 - Submit your answers on Gradescope.
 
