@@ -3,7 +3,7 @@
 
 * Assigned: 11/1 Tue
 * Due: 11/29 Tue 11:59 PM
-* Late submission will be accepted until 12/02 Fri 11:59 PM(i.e. up to 3 late days can be applied for HW4). This is because we want to release the solution early so that you will have more time to prepare for midterm 2. 
+* **Late submission will be accepted until 12/02 Fri 11:59 PM(i.e. up to 3 late days can be applied for HW4).** This is because we want to release the solution early so that you will have more time to prepare for midterm 2. 
 * Value: 3.75% of your grade
 * Done and submitted individually (as with all the homeworks) **via [Gradescope](https://www.gradescope.com)**. 
 
