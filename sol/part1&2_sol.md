@@ -77,7 +77,7 @@ Symbols:
 	
 		The result is cost traversing height of tree(which is same as Q1.3) + 1(given secondary index)
 		
-		Alternatively, there are partial marks if you have the result - traversing height of tree + #leaves
+		Alternatively, there are partial marks if you have the result - traversing height of tree + #leaves (Since we used AutoGrader, please submit Regrade request if your answer falls in this category.)
 
 ---------------------------------
 ## HW4 Part2 Transaction - Concurrency Solution
